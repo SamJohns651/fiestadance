@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 6 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.0000119%" y1="100%" x2="50.0000119%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#0450B6" offset="0%"></stop>
+            <stop stop-color="#663990" stop-opacity="0.976011876" offset="17.3274184%"></stop>
+            <stop stop-color="#C9226A" stop-opacity="0.951719538" offset="34.8745807%"></stop>
+            <stop stop-color="#FF0000" stop-opacity="0.9" offset="55.7571681%"></stop>
+            <stop stop-color="#FFAE00" stop-opacity="0.9" offset="82.246392%"></stop>
+            <stop stop-color="#FFE400" stop-opacity="0.9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard-6-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-4" fill="url(#linearGradient-1)" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>
